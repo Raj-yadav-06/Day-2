@@ -7,3 +7,5 @@ Uploading local repo to github
 using git init
 
 # Added succesfully
+
+completed
